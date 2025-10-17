@@ -16,9 +16,14 @@
 
 ## Model Locations
 
-I did not develop some of the models that I will be using. I got them from the NASA STL Resorce page. The link is below.
+I did not develop some of the models that I will be using. I got some them from the NASA STL Resorce page. I was also Able to find varous assets on AssetStore.unity
 
+NASA Resorces
 - https://science.nasa.gov/3d-resources/
+
+AssetStore.unity
+- https://assetstore.unity.com/top-assets/top-free
+
 
 #### Project Goal
 
