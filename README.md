@@ -16,14 +16,22 @@
 
 ## Model Locations
 
-I did not develop some of the models that I will be using. I got some them from the NASA STL Resorce page. I was also Able to find varous assets on AssetStore.unity
+I did not develop some of the assets and models that I will be using. The links for the websites are below.
 
 NASA Resorces
 - https://science.nasa.gov/3d-resources/
 
+NASA has some really good space resources that I will be unsing to help with the emmsion of the simulation.
+
 AssetStore.unity
 - https://assetstore.unity.com/top-assets/top-free
 
+The asset store has both models and scripting packeges that will help production of the environment.
+
+Meta Horizon
+- https://developers.meta.com/horizon/reference/unity/v78/
+
+The Meta Horizon website has some great resorces for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
 
 #### Project Goal
 
