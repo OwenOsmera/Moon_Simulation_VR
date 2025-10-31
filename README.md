@@ -4,7 +4,7 @@
 
 - Owen Osmera
 
-## Helpful Tutorials for Begginers
+## Helpful Tutorials for Beginners
 
 - [Create with VR](https://learn.unity.com/course/create-with-vr)
 
@@ -20,7 +20,7 @@ I did not develop some of the assets and models that I will be using. The links 
 
 - [3D Resources](https://science.nasa.gov/3d-resources/)
 
-NASA has some really good space resources that I will be unsing to help with the emmsion of the simulation.
+NASA has some really good space resources that I will be using to help with the emission of the simulation.
 
 - [Discover Top Free Assets on Unity’s Asset Store](https://assetstore.unity.com/top-assets/top-free)
 
@@ -28,7 +28,7 @@ The asset store has both models and scripting packeges that will help production
 
 - [Meta Horizon](https://developers.meta.com/horizon/reference/unity/v78/)
 
-The Meta Horizon website has some great resorces for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
+The Meta Horizon website has some great resources for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
 
 #### Project Goal
 
