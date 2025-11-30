@@ -30,6 +30,8 @@ The asset store has both models and scripting packeges that will help production
 
 The Meta Horizon website has some great resources for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
 
+- [Real Stars Skybox Lite by Geoff Dallimore](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)
+
 #### Project Goal
 
 Make a VR simulation of the moon that can be used to train people before they go into space.
