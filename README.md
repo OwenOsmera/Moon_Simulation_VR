@@ -10,6 +10,8 @@
 
 - [How to Make a VR Game in Unity - PART 1](https://www.youtube.com/watch?v=HhtTtvBF5bI&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&index=3)
 
+- [ump in VR using the Unity Character Controller - Advanced VR Tutorials](https://www.youtube.com/watch?v=-jh-YlRXuyk)
+
 ## Blender resources
 
 - [My Blender Object is "see-through" in Unity](https://blender.stackexchange.com/questions/169851/my-blender-object-is-see-through-in-unity)
