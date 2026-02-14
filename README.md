@@ -20,11 +20,9 @@
 
 I did not develop some of the assets and models that I will be using. The links for the websites are below.
 
-- [3D Resources](https://science.nasa.gov/3d-resources/)
-
 NASA has some really good space resources that I will be using to help with the emission of the simulation.
 
-- [Discover Top Free Assets on Unity’s Asset Store](https://assetstore.unity.com/top-assets/top-free)
+- [3D Resources](https://science.nasa.gov/3d-resources/)
 
 The Meta Horizon website has some great resources for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
 
@@ -33,6 +31,7 @@ The Meta Horizon website has some great resources for the player movement on the
 The Unity asset store has both models and scripting packeges that will help production of the environment.
 
 - [Real Stars Skybox Lite by Geoff Dallimore](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)
+- [Discover Top Free Assets on Unity’s Asset Store](https://assetstore.unity.com/top-assets/top-free)
 
 #### Project Goal
 
