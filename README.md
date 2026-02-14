@@ -26,11 +26,11 @@ NASA has some really good space resources that I will be using to help with the 
 
 - [Discover Top Free Assets on Unity’s Asset Store](https://assetstore.unity.com/top-assets/top-free)
 
-The asset store has both models and scripting packeges that will help production of the environment.
+The Meta Horizon website has some great resources for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
 
 - [Meta Horizon](https://developers.meta.com/horizon/reference/unity/v78/)
 
-The Meta Horizon website has some great resources for the player movement on the Oculus headset. They will come in handy when getting player movement working correctly.
+The Unity asset store has both models and scripting packeges that will help production of the environment.
 
 - [Real Stars Skybox Lite by Geoff Dallimore](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)
 
